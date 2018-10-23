@@ -1,5 +1,5 @@
 
-# Sentiment Analysis of Major News Organizations
+# Sentiment Analysis of Major News Organizations' Twitter Feeds
 
 **Observation 1:** Fox News has been the most positive news organization, CNN the most negative, over the last 100 tweets<br>
 **Observation 2:** The same media organizations that come closest to extreme negative tweets (-1.0) also come the closest to extreme positive tweets (+1.0)<br>
